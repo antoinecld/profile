@@ -109,8 +109,9 @@ li {
   left: 0;
   top: 0;
   bottom: 0;
-  background-color: red;
+  background-color: #000000;
 }
+
 #page-content {
   margin-left: 300px;
 }
