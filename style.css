@@ -1,0 +1,113 @@
+body {
+  background-image: url("images/pw_pattern_@2X.png");
+  background-repeat: repeat;}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #454545;
+}
+
+h2 {
+  color: #454545;
+}
+
+h3 {
+  color: #7d7d7d;
+}
+
+p {
+  color: #7d7d7d;
+}
+
+a {
+  color: #cccccc;
+}
+
+ul {
+  color: #7d7d7d;
+}
+
+h3:hover{
+  color: #454545;
+}
+
+a:hover {
+  color: #d23333;
+}
+
+.fa {
+  width: 20px;
+}
+
+.facebook-link:hover, .twitter-link:hover {
+  font-size: 25px;
+}
+
+
+.fa-facebook, #facebook {
+  color: #3b5998;
+  font-size: 20px;
+}
+
+.fa-twitter, #twitter {
+  color: #1DA1F2;
+  font-size: 20px;
+}
+
+.profil-picture {
+  border-radius: 20px;
+  box-shadow: 2px 2px 2px #7d7d7d;
+  border: 1px solid #7d7d7d;
+  filter: blur(5px);
+}
+
+.profil-picture:hover {
+  filter: blur(0px);
+}
+
+.container {
+  width: 500px;
+  margin: 30px auto;
+  border-radius: 4px;
+}
+
+.card {
+  background-color: #ffffff;
+  margin: 20px auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.movie {
+  background-color: #ffffff;
+  border: medium inset #7d7d7d;
+  margin: 20px auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+ul {
+  padding: 0
+}
+
+li {
+  list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+
