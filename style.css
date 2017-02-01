@@ -33,6 +33,7 @@ h3:hover{
 
 a:hover {
   color: #d23333;
+  text-decoration:underline;
 }
 
 .fa {
@@ -108,15 +109,16 @@ li {
   left: 0;
   top: 0;
   bottom: 0;
+  background-color: red;
 }
 #page-content {
   margin-left: 300px;
 }
 
-a
-{
+a {
  text-decoration:none;
 }
+
 
 
 
