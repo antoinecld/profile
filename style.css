@@ -33,7 +33,7 @@ h3:hover{
 
 a:hover {
   color: #d23333;
-  text-decoration:underline;
+  text-decoration:overline;
 }
 
 .fa {
