@@ -66,8 +66,12 @@ a:hover {
   filter: blur(0px);
 }
 
+.all-container {
+  margin-left: 150px;
+}
+
 .container {
-  width: 500px;
+  width: 800px;
   margin: 30px auto;
   border-radius: 4px;
 }
@@ -110,19 +114,28 @@ li {
   top: 0;
   bottom: 0;
   background-color: #384047;
-  padding: 20px;
+  padding-top: 50px;
 }
 
 #page-content {
-  margin-left: 300px;
+  margin-left: auto;
 }
 
 a {
  text-decoration:none;
 }
 
+body {
+  margin: 0;
+}
 
+.movie-picture {
+  width: 30%;
+}
 
+.movie-picture:hover {
+  width: 35%;
+}
 
 
 
